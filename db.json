@@ -1,0 +1,82 @@
+{
+  "user": [
+    {
+      "id": 3,
+      "name": "chand",
+      "password": "andharu",
+      "email": "amash@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "dash",
+      "password": "kamar",
+      "email": "dash@gmail.com"
+    },
+    {
+      "name": "rohit",
+      "password": "rohit@gmail.comcsa",
+      "email": "rohit@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "rohitcds",
+      "password": "rohit@gmail.com",
+      "email": "rohit@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "fhi",
+      "password": "rohit@gmail.com",
+      "email": "rohit@gmail.com",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": " dxz",
+      "password": "c d dxz",
+      "email": " dxc"
+    },
+    {
+      "name": "meetviroja",
+      "password": "123",
+      "email": "karn@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "gnf",
+      "password": "bg ",
+      "email": "gb",
+      "id": 11
+    },
+    {
+      "name": "cs",
+      "password": "cs",
+      "email": "csa",
+      "id": 12
+    },
+    {
+      "name": "vd ",
+      "password": "vd",
+      "email": "dv",
+      "id": 13
+    },
+    {
+      "name": "fer",
+      "password": "rg",
+      "email": "rge",
+      "id": 14
+    },
+    {
+      "name": "harsh",
+      "password": "123456",
+      "email": "harsh@gmail.com",
+      "id": 15
+    },
+    {
+      "id": 16,
+      "name": "raj",
+      "password": "dada",
+      "email": "raj@gmail.com"
+    }
+  ]
+}
